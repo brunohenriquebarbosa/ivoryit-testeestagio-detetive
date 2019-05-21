@@ -16,7 +16,6 @@ namespace Ivory.TesteEstagio.Detetive
             var local = 1;
             var arma = 1;
 
-
             // Formula uma nova teoria enquanto o que foi perguntado for diferente do que a testemunha viu.
             while (!encontrou)
             {
